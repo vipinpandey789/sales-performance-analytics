@@ -4,6 +4,9 @@ This is my data analysis project on a retail superstore's sales data from 2021 t
 I did this project to practice and learn end to end data analysis using Python.
 
 ---
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
 
 ## About the Project
 
