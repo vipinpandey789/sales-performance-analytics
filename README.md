@@ -8,6 +8,14 @@ I did this project to practice and learn end to end data analysis using Python.
 
 ![Dashboard Preview](dashboard_preview.png)
 
+## Key Insights
+
+- Technology generated the highest sales.
+- East region generated the highest profit.
+- Standard Class was the most used shipping mode.
+- Low discounts contributed most of the profit.
+- Sales showed strong growth toward the end of the year.
+
 ## About the Project
 
 I took a superstore sales dataset and tried to answer some important business questions like:
