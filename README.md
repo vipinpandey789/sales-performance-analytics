@@ -1,7 +1,7 @@
 # Sales Performance Analytics Project
 
 This is my data analysis project on a retail superstore's sales data from 2021 to 2024.
-I did this project to practice and learn end to end data analysis using Python.
+I did this project to practice end to end data analysis using Python and Power BI.
 
 ---
 ## Dashboard Preview
@@ -10,11 +10,11 @@ I did this project to practice and learn end to end data analysis using Python.
 
 ## Key Insights
 
-- Technology generated the highest sales.
-- East region generated the highest profit.
-- Standard Class was the most used shipping mode.
-- Low discounts contributed most of the profit.
-- Sales showed strong growth toward the end of the year.
+- East region leads with $8.84M in sales — 37% of total revenue
+- Q4 generates 1.8x more sales than Q1 every year — clear seasonal peak
+- Discounts above 30% produce negative profit on average (-$223 per order)
+- Office Supplies has the highest profit margin at ~30% despite lower sales volume
+- Consumer segment drives 52% of orders but Corporate has comparable margins
 
 ## About the Project
 
@@ -42,17 +42,21 @@ I took a superstore sales dataset and tried to answer some important business qu
 - NumPy (calculations)
 - Matplotlib and Seaborn (charts and visualization)
 - Jupyter Notebook
+- Power BI Desktop (interactive dashboard with slicers and KPI cards)
 
 ---
 
 ## Project Structure
 
 ```
-sales-dashboard-powerbi/
+sales-performance-analytics/
 |
-|-- superstore_sales.csv              # dataset
-|-- sales_performance_analysis.ipynb  # main analysis notebook
-|-- charts/                           # all charts saved here
+|-- superstore_sales.csv                  # dataset
+|-- sales_performance_analysis.ipynb      # main analysis notebook
+|-- Sales_Performance_Analytics.pbix      # power bi dashboard file
+|-- dashboard_preview.png                 # dashboard screenshot
+|-- sales_performance_analytics.pdf       # exported pdf report
+|-- charts/                               # all charts saved here
 |   |-- 01_monthly_sales_trend.png
 |   |-- 02_region_sales_profit.png
 |   |-- 03_category_performance.png
@@ -94,4 +98,5 @@ sales-dashboard-powerbi/
 
 **Vipin Pandey**  
 MCA (Data Science) | UPES Dehradun  
-LinkedIn: linkedin.com/in/vipin-pandey-21810328a
+[LinkedIn](https://linkedin.com/in/vipin-pandey-21810328a)
+[GitHub](https://github.com/vipinpandey789)
