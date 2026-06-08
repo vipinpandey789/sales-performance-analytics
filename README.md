@@ -81,17 +81,6 @@ sales-dashboard-powerbi/
 
 ---
 
-## How to Run
-
-```bash
-git clone https://github.com/vipinpandey/sales-dashboard-powerbi
-cd sales-dashboard-powerbi
-pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook sales_performance_analysis.ipynb
-```
-
----
-
 **Vipin Pandey**  
 MCA (Data Science) | UPES Dehradun  
 LinkedIn: linkedin.com/in/vipin-pandey-21810328a
